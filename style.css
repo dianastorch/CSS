@@ -1,0 +1,12 @@
+/*Seletores uso IDENTIFICAÇÂO DO CÒDIGO {} */
+
+body{
+	background-color:#0000FF; /* Cor da Página*/
+	color:#FFFFFF; /* Cor da Fonte*/
+}
+h1{
+	color:#FF0000;
+}
+img{
+	width:200px;
+}
